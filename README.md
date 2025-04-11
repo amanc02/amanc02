@@ -54,5 +54,5 @@ Few things I’m currently working on or planning to build:
 ## Let’s Connect?
 Always open to learning, sharing, collaborating, or just having a good conversation on anything and everything that comes our way.
 
-[Gmail](mailto: choudhary2aman2@gail.com) | [LinkedIn](https://www.linkedin.com/in/222ac/) | [Resume](https://drive.google.com/file/d/1JofRTei2lhl0E9BvWwCXL-B9gy8U-XVw/view?usp=drivesdk)
+[Gmail](mailto:choudhary2aman2@gmail.com) | [LinkedIn](https://www.linkedin.com/in/222ac/) | [Resume](https://drive.google.com/file/d/1JofRTei2lhl0E9BvWwCXL-B9gy8U-XVw/view?usp=drivesdk)
 
