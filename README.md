@@ -4,7 +4,7 @@ A Data & Business Analyst who genuinely enjoys solving real-world problems using
 
 I’m someone who likes clarity whether it’s in making decisions, communicating with people, or building solutions. That’s exactly what pulled me towards Analytics.
 
-Over the past few years, I’ve worked with organizations across industries helping them automate manual processes, build dashboards that actually make sense, optimize workflows, and most importantly — enable smarter, faster decisions backed by data.
+Over the past few years, I’ve worked with organizations across industries helping them automate manual processes, build dashboards that actually make sense, optimize workflows, and most importantly enable smarter, faster decisions backed by data.
 
 ---
 ## My Education:
@@ -54,4 +54,4 @@ Few things I’m currently working on or planning to build:
 ## Let’s Connect?
 Always open to learning, sharing, collaborating or just having a good conversation on anything and everything that comes our way.
 
-[Gmail](mailto:choudhary2aman2@gmail.com) | [Phone] +1 (940)-344-4252
+[Gmail](mailto:choudhary2aman2@gmail.com) | +1 (940)-344-4252
